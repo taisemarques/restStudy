@@ -2,6 +2,7 @@ package reststudy;
 
 import java.util.ArrayList;
 
+
 public class CardWrapper {
 
 	private ArrayList<Card> cards;

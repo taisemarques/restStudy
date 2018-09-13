@@ -3,6 +3,7 @@ package reststudy;
 import java.util.ArrayList;
 import java.util.Map;
 
+
 public class Card {
 	 private String name;
 	 private String manaCost;
